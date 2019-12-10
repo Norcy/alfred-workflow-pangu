@@ -10,7 +10,7 @@
 本腳本的壹切字體使用繁體，向原作者致敬
 
 ## 下載地址
-[Alfred-Pangu-Workflow]()
+[Alfred-Pangu-Workflow](https://github.com/Norcy/alfred-workflow-pangu/blob/master/Pangu.alfredworkflow?raw=true)
 
 ## 使用方法
 支持雙模式：
