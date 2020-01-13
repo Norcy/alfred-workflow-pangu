@@ -21,7 +21,7 @@
 + 模式二：將待格式化的文本復制到剪切板，調用 Alfred 輸入 "pg"，回車後，格式化的文本將更新到剪切板上
 
 ## 註意事項
-+ 如果 cmd+p 與您的其他快捷鍵沖突，可自行到 workflow 中的 Hotkey 模塊修改
++ 安裝後快捷鍵會丟失 or 如果 cmd+p 與您的其他快捷鍵沖突，可自行到 workflow 中的 Hotkey 模塊修改
 + 如果您的 python3 的位置不在 `/usr/bin/python3`，可自行到 workflow 中的 Run Srcipt 模塊修改（可使用 `which python3` 來查看其位置）
 
 ## License
